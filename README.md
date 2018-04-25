@@ -23,4 +23,4 @@ There will be more vidoes building out the rest of TODOMVC.
 
 - [Start Code](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-2)
 - [End Code](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-3)
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/todomvc-3-mark-items-complete'>TodoMVC 3: Mark Items Complete</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG TodoMVC 3: Mark Items Complete</p>
